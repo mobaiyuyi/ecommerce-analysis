@@ -1,0 +1,5 @@
+# 依赖
+pandas>=2.0
+sqlalchemy>=2.0
+pymysql>=1.1
+openpyxl>=3.1
